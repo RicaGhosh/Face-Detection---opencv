@@ -1,6 +1,6 @@
 # FaceDetection using OpenCV
 
-This project utilizes OpenCV Library to make a Real-Time Face Detection using the webcam as a primary camera. 
+<b>This project utilizes OpenCV Library to make a Real-Time Face Detection using the webcam as a primary camera.</b>
 
 ## OpenCV 
 
